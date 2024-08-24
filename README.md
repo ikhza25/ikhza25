@@ -1,7 +1,7 @@
 ![Banner 1](https://github.com/ikhza25/ikhza25/blob/e586aea98600902ac353544b6844a89136c97052/Green%20Simple%20Manager%20LinkedIn%20Banner.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=22&pause=1000&color=000000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ikhza;Welcome+to+My+Github!" />
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ikhza;Welcome+to+My+Github!%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 </h1>
 
 # 👨‍💻 Ikhza here!
