@@ -47,6 +47,13 @@ Dive into the world of data analysis using Python libraries like Pandas and Matp
 
 <br><br>
 
+### **2. Data Science Projects**
+Dive into the world of data Science using Python libraries like Sklearn and deep learning by exploring my projects below:
+1. **[Predicting Stock Prices Using LSTM](https://github.com/ikhza25/Predict_Stock_LSTM))**: AThe Stock Price Prediction using LSTM project is focused on leveraging Long Short-Term Memory (LSTM) networks to forecast the future prices of stocks, specifically PT Aneka Tambang Tbk (ANTM). The primary goal is to create a model that can predict stock prices accurately based on historical data.
+2. **[Hotel Booking Demand](https://github.com/ikhza25/capstone_3)**: The objective of this initiative is to address the negative impact of room booking cancellations using a machine learning approach. The hotel aims to develop a model that enhances the accuracy of cancellation forecasts, enabling risk analysis to predict cancellations more precisely. 
+
+<br><br>
+
 ## 🪛 Languages and Tools
 
 <img align="left" alt="Python" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
